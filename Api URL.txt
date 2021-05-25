@@ -1,0 +1,11 @@
+Save URL for order:
+post request : http://localhost:8001/v1/api/orders
+
+Fetch all orders:
+get request : http://localhost:8001/v1/api/orders
+
+Fetch single order:
+get request : http://localhost:8001/v1/api/orders/1
+
+Delete order
+delete request: http://localhost:8001/v1/api/orders/1
